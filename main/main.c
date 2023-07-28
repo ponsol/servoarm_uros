@@ -58,7 +58,7 @@ static led_strip_handle_t led_strip;
 #define PWM_FREQ  50 
 
 
-const float pi = 3.14156;
+const float pi = 3.14159;
 const float deg2rad = pi/180.0 ;
 
 //int motgpio[NMOTOR] = {19, 18, 5, 17, 16, 4}; //for esp32
